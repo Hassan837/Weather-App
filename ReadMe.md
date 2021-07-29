@@ -23,7 +23,12 @@
 OR
 - open index.html in your browser.
 
+
 ## Repo Link:
+
+https://github.com/Hassan837/Weather-App
 
 
 ## Live Link:
+
+https://hassan837.github.io/Weather-App/
